@@ -7,7 +7,7 @@ The whole game and its mechanics are explained in the report, but a demo below w
 The video demo will go more in-depth to the mechanics of the game, the gif demo just shows how the game looks like.
 
 ## Privacy
-Due to university guidelines on plagiarism and collusion, the main branch containing the full code is private.
+Due to university guidelines on plagiarism and collusion, the main repository containing the full code is private.
 If you are interested in viewing the code, please let me know.
 
 ## Coursework Details
